@@ -1,0 +1,14 @@
+{
+
+    "1": { "levelUpAt":10 },
+    "2": { "levelUpAt":20 },
+    "3": { "levelUpAt":30 },
+    "4": { "levelUpAt":40 },
+    "5": { "levelUpAt":50 },
+    "6": { "levelUpAt":60 },
+    "7": { "levelUpAt":70 },
+    "8": { "levelUpAt":80 },
+    "9": { "levelUpAt":90 },
+    "10": { "levelUpAt":100 }
+    
+}
